@@ -1,6 +1,4 @@
 # Recommendation-Engine
-IBM Watson
-
 ## Project Motivation
 There are three different types of recommendations: knowledge based, content based, and collaborative filtering. In this project I've decided to implement collaborative filtering to recommend items to users. Neighbourhood based collaborative filtering uses the connections between simliar users and their interactions with items to make recommendations. Similarity can be determined from the popular metrics: Pearson's correlation, Spearman's correlation, Kendall Tau's correlation, Euclidean distance, or Manhattan distance. Depending on the data we have to choose the right similarity metric. We can infer what users would like and test our predictions using as you will see.
 
